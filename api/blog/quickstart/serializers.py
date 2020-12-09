@@ -1,4 +1,4 @@
-from api.blog.quickstart.models import BlogPost
+from blog.quickstart.models import BlogPost
 from rest_framework import serializers
 
 
